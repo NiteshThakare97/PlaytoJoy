@@ -8849,13 +8849,15 @@ blockquote.vs-quote p {
 }
 .tournament-style2 .tournament-title {
   font-size: 26px;
-  margin-bottom: 30px;
+  margin: 35px 0px 30px;
+  padding-left: 35px;
 }
 .tournament-style2 .tournament-location {
   position: relative;
   font-size: 18px;
-  max-width: 270px;
+  /* max-width: 270px; */
   padding-left: 35px;
+  padding-right: 35px;
   color: var(--title-color);
   transition: all ease 0.4s;
   padding-bottom: 29px;
@@ -8895,10 +8897,10 @@ blockquote.vs-quote p {
     height: 0;
   }
   .tournament-style2:hover .tournament-bottom {
-    height: var(--toggle-height);
+    height: 200px;
   }
   .tournament-style2:hover .tournament-img {
-    height: calc(var(--img-height) - var(--toggle-height));
+    height: calc(var(--img-height) - 200px);
   }
 }
 
@@ -9501,7 +9503,7 @@ blockquote.vs-quote p {
   }
   .tournament-style2 .tournament-location {
     font-size: 12px;
-    max-width: 220px;
+    /* max-width: 220px; */
     padding-left: 30px;
     line-height: 1.4;
   }
@@ -10929,6 +10931,7 @@ table.variations .reset_variations {
 .product-style2 .product-name {
   font-size: 22px;
   margin-bottom: 2px;
+  text-align: center;
 }
 .product-style2 .product-category {
   margin-bottom: 13px;

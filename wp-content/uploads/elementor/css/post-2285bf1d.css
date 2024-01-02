@@ -477,6 +477,7 @@
     .elementor-2285 .elementor-element.elementor-element-c5d2867 {
         width: 100%;
     }
+    
 }
 
 @media(max-width:1024px) {
@@ -595,6 +596,9 @@
 
     .elementor-2285 .elementor-element.elementor-element-e70f368 {
         --e-image-carousel-slides-to-show: 3;
+    }
+    .elementor-2285 .elementor-element.elementor-element-67353d1 {
+        padding: 0px;
     }
 }
 
