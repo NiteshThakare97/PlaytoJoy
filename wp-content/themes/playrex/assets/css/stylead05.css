@@ -2063,7 +2063,7 @@ textarea.is-invalid {
 .sec-title {
   font-size: 50px;
   margin: -0.33em 0 17px 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-family: Sportypo;
   font-weight: 100;
 }
@@ -6557,7 +6557,7 @@ blockquote.vs-quote p {
 .match-style3 .match-top {
   display: flex;
   border: 3px solid var(--smoke-color);
-  border-top: none;
+  /* border-top: none; */
   transition: all ease 0.4s;
 }
 .match-style3 .match-team {
@@ -8138,7 +8138,7 @@ blockquote.vs-quote p {
   font-size: 50px;
   font-weight: 700;
   text-transform: uppercase;
-  max-width: 300px;
+  max-width: 382px;
   margin: 0 auto -0.13em auto;
 }
 
