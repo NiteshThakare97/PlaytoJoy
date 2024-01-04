@@ -295,7 +295,7 @@
 
 @media(min-width:768px) {
     .elementor-2717 .elementor-element.elementor-element-8830a1b {
-        width: 30%;
+        width: 100%;
     }
 
     .elementor-2717 .elementor-element.elementor-element-1a1738c {
@@ -313,7 +313,7 @@
 
 @media(max-width:1024px) and (min-width:768px) {
     .elementor-2717 .elementor-element.elementor-element-8830a1b {
-        width: 30%;
+        width: 100%;
     }
 
     .elementor-2717 .elementor-element.elementor-element-1a1738c {
@@ -355,7 +355,7 @@
 
 @media(max-width:767px) {
     .elementor-2717 .elementor-element.elementor-element-8830a1b {
-        width: 50%;
+        width: 100%;
     }
 
     .elementor-2717 .elementor-element.elementor-element-1a1738c {
